@@ -873,3 +873,5 @@ const projectVariables = {
   meets_dsm_aps_cfr: "meets_dsm_aps_cfr",
   gfs_pdf: "",
 };
+
+module.exports = projectVariables;
