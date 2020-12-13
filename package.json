@@ -1,0 +1,15 @@
+{
+  "name": "redcap-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "redcap": "^0.3.0",
+    "rename-keys": "^2.0.1"
+  }
+}
